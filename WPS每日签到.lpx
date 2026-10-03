@@ -1,6 +1,6 @@
 #!name=WPS每日签到
-#!author=土豆
 #!desc=WPS每日签到并兑换会员，脚本包含功能：每日签到，打卡领会员，天天抽奖，会员试用申请，限量爆款领取，小程序打卡。
+#!author=Potato
 [MITM]
 hostname = personal-act.wps.cn
 
