@@ -1,6 +1,6 @@
 #!name=WPS每日签到
 #!author=土豆
-#！WPS每日签到并兑换会员。
+#！desc=WPS每日签到并兑换会员。
 [MITM]
 hostname = personal-act.wps.cn
 
